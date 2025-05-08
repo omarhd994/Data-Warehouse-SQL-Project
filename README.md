@@ -1,6 +1,6 @@
 # 📊 Data Warehouse and Analytics Project
 
-Hi! I'm excited to share one of the most complete projects I’ve built around **data engineering and analytics**. This repository showcases how I designed and implemented a **modern data warehouse** solution, following industry best practices and using the **Medallion Architecture**.
+I'm excited to share one of the most complete projects I’ve built around **data engineering and analytics**. This repository showcases how I designed and implemented a **modern data warehouse** solution, following industry best practices and using the **Medallion Architecture**.
 
 This project was created as part of my portfolio to demonstrate my hands-on experience in building a data warehouse from scratch, transforming raw data, and turning it into business insights.
 
