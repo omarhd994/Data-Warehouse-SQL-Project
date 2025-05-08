@@ -64,3 +64,4 @@ Whether you're a recruiter, hiring manager, or fellow tech enthusiast, I hope th
 ![data_architecture](https://github.com/user-attachments/assets/29cf5249-40a5-4e86-a547-742d94abfc4d)
 ![SCRIPTS](https://github.com/user-attachments/assets/d63257df-ad04-4f7e-b7d8-fdcb93d3bf27)
 ![DataFlow](https://github.com/user-attachments/assets/71cfaf6a-7ded-4d0a-ac3c-a0a6456723c3)
+![Plan du projet sqlserver](https://github.com/user-attachments/assets/48cd17e2-e436-4471-b8f1-0ea47da7005a)
