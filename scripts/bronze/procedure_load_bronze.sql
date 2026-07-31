@@ -6,7 +6,7 @@ Script Purpose:
     - Utilizes the `BULK INSERT` command to transfer data from CSV files into bronze tables.
 */
 
-EXEC bronze.load_bronze
+-- EXEC bronze.load_bronze
 
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
